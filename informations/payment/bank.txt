@@ -1,0 +1,61 @@
+Bank name:
+Digital Commerce Bank
+
+Bank address:
+736 Meridian Road NE Calgary, Alberta T2A 2N7, Canada
+
+Institution number:
+0352
+
+Transit number:
+20009
+
+Account type:
+CHECKING
+
+Account number:
+96134389873
+
+
+
+
+
+
+
+Jupitor.
+
+Bank name:
+Digital Commerce Bank
+
+Bank address:
+736 Meridian Road NE Calgary, Alberta T2A 2N7, Canada
+
+Institution number:
+0352
+
+Transit number:
+20009
+
+Account type:
+CHECKING
+
+Account number:
+96191838337
+
+Beneficiary name:
+Zhan Shiping
+
+
+
+
+
+
+Kiran's Bank
+Webbizz Development Inc.
+routing number: 021000021
+Institution number: 003
+Account: 03620-1022896
+
+RBC Royal Bank's Routing/ABA number (if funds coming from U. S.): 021000021
+
+RBC Royal Bank's SWIFT BIC (if funds coming from another  International location): ROYCCAT2
